@@ -2,7 +2,7 @@
 test();
 function test()
 {
-	$var = "How are you?";
+	$var = "How are you? - Dev";
 	return $var;
 }
 ?>
